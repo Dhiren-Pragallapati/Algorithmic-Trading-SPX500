@@ -48,6 +48,8 @@ Debt/Equity ratio below sector average
 Profit margin above sector average
 # Other Strategies
 The repository also includes implementations of Peter Lynch's, Philip Fisher's, and Benjamin Graham's strategies, each with its own set of criteria for stock selection.
+# Data
+For information about the data sources used in this project, please see the [data documentation](data/README.md).
 # Results
 The strategy implementation yields a filtered list of stocks that meet the specified criteria for each sector. Users can further analyze these stocks for potential investment opportunities.
 # Contributing
