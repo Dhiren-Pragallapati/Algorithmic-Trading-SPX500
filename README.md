@@ -24,13 +24,6 @@ numpy
 yfinance
 matplotlib
 scipy
-# Installation
-Clone the repository:
-text
-git clone https://github.com/yourusername/sp500-algo-trading.git
-Install required dependencies:
-text
-pip install -r requirements.txt
 # Usage
 Open the Jupyter notebooks in your preferred environment.
 Run the cells sequentially to execute the trading strategies.
