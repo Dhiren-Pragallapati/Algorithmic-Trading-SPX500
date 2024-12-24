@@ -1,5 +1,5 @@
 # S&P 500 Algorithmic Trading Strategies
-This repository contains Python-based algorithmic trading strategies focused on value investing approaches for stocks in the S&P 500 index. The project implements various investment strategies to identify potentially undervalued stocks using financial metrics and market data.
+This repository contains Python-based algorithmic trading strategies focused on value and growth investing approaches for stocks in the S&P 500 index. The project implements various investment strategies to identify potentially undervalued stocks using financial metrics and market data.
 # Overview
 The project applies multiple value investing strategies, including:
 Peter Lynch's 'Fast Growers' Strategy
